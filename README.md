@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm OGATO2012
 
-<!--
-**OGATO2012/OGATO2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Software Developer
+- 🌱 Always learning and growing
+- 🔭 Working on interesting projects
 
-Here are some ideas to get you started:
+## Languages & Tools
+- Add your preferred programming languages
+- List the tools and technologies you use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+[![OGATO2012's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGATO2012&show_icons=true&theme=dark)](https://github.com/OGATO2012)
+
+## Get in Touch
+- Feel free to reach out for collaborations or just a chat!
